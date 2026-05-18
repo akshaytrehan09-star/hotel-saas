@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /workspace log --oneline -10)",
+      "Bash(cat /workspace/plugins/ralph-wiggum/commands/*.md)",
+      "Bash(cat /workspace/plugins/code-review/commands/*.md)",
+      "Bash(cat /workspace/plugins/frontend-design/skills/*/SKILL.md)"
+    ]
+  }
+}
